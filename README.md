@@ -8,4 +8,4 @@ Useful Competitive Programming Algorithms :
 4. Adding big integers
 5. Recursive Factorial
 6. Recursive Fibonachi 
-7. Iterative Fibonachi
+7. Iterative Fibonacci
