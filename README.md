@@ -1,4 +1,4 @@
-# Competitive_progr_algos
+# Competitive_algos
 
 
 Useful Competitive Programming Algorithms :
