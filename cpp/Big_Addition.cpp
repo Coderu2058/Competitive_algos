@@ -1,14 +1,14 @@
 #include<iostream>
-
+#define long long ll
 //addition function
-long long add()
+ll add(ll a,ll  b)
 {
-  
+  return a+b;
 }
 
 int main()
 {
-    long long a,b;
+    ll a,b;
     cout<<" Result of Addition : "<<add(a,b); 
   return 0;
 }
