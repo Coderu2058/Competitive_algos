@@ -1,12 +1,12 @@
 #include<iostream>
 using namespace std;
 
-int fact(int x)
-{
-  
-
-
-}
+unsigned int fact(unsigned int n) 
+{ 
+    if (n == 0) 
+        return 1; 
+    return n * factorial(n - 1); 
+} 
 
 int main()
 { 
