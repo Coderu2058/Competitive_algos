@@ -7,3 +7,5 @@ Useful Competitive Programming Algorithms :
 3. N- Matrix Multiplication 
 4. Adding big integers
 5. Recursive Factorial
+6. Recursive Fibonachi 
+7. Iterative Fibonachi
