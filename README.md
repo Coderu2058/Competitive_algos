@@ -9,3 +9,4 @@ Useful Competitive Programming Algorithms :
 5. Recursive Factorial
 6. Recursive Fibonachi 
 7. Iterative Fibonacci
+8. Euclid GCD Algorithm
